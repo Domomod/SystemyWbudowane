@@ -1,3 +1,6 @@
+![alt text](https://github.com/Domomod/SystemyWbudowane/blob/main/Schemat.png?raw=true)
+
+
 Wideoprezentacja:
 https://www.youtube.com/watch?v=LQzsX8gDhqw
 

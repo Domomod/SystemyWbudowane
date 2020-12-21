@@ -1,4 +1,4 @@
-![alt text](https://github.com/Domomod/SystemyWbudowane/blob/main/Schemat.png?raw=true)
+![alt text](https://github.com/Domomod/SystemyWbudowane/blob/master/Schemat.png?raw=true)
 
 
 Wideoprezentacja:
